@@ -1,8 +1,6 @@
 package com.xouan.linear.bag;
 
-import java.util.Iterator;
-
-public class MyLinkedBag<Item> implements MyBag<Item> {
+public class MyLinkedBag<Item>{
 
     private Node first = null; // 链表首节点
     private int size = 0;
@@ -17,7 +15,6 @@ public class MyLinkedBag<Item> implements MyBag<Item> {
         return size == 0;
     }
 
-    @Override
     public void add(Item item) {
         Node newNode = new Node();
         newNode.item = item;
@@ -26,21 +23,4 @@ public class MyLinkedBag<Item> implements MyBag<Item> {
         size++;
     }
 
-    @Override
-    public Iterator<Item> iterator() {
-        return new Iterator<Item>() {
-            private Node current = first;
-            @Override
-            public boolean hasNext() {
-                return current != null;
-            }
-
-            @Override
-            public Item next() {
-                Item item = current.item;
-                current = current.next;
-                return item;
-            }
-        };
-    }
 }

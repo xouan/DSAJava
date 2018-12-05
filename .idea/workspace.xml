@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb2a3584-2445-418a-8d64-08b0293172e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xouan/sort/BaseSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xouan/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xouan/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xouan/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xouan/sort/SortTest.java" afterDir="false" />
+    <list default="true" id="eb2a3584-2445-418a-8d64-08b0293172e2" name="Default Changelist" comment="提交">
+      <change afterPath="$PROJECT_DIR$/src/com/xouan/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/BagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/MyArrayBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/OnlineShopperBagTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSAJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/node/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xouan/node/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/linear/bag/MyBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/linear/bag/MyBag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/linear/bag/MyLinkedBag$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/linear/bag/MyLinkedBag$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/xouan/linear/bag/MyLinkedBag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,37 +66,138 @@
     <session id="-45591353">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1156" />
+          <entry key="java" value="3596" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1156" />
+          <entry key="JAVA" value="3596" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/sort/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyArrayBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/BagTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/MySet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/OnlineShopperBagTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,11 +214,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/Bag.java" />
-        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/node/Node.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/node/NodeTest.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/linear/queue/MyLinkedQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/linear/stack/MyLinkedStack.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/linear/stack/MyStack.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/linear/list/MyList.java" />
@@ -126,6 +228,13 @@
         <option value="$PROJECT_DIR$/src/com/xouan/sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/sort/SortTest.java" />
         <option value="$PROJECT_DIR$/src/com/xouan/sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/Item.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/MySet.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/BagTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/OnlineShopperBagTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xouan/linear/bag/MyArrayBag.java" />
       </list>
     </option>
   </component>
@@ -144,8 +253,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="289" />
-    <option name="y" value="54" />
+    <option name="x" value="408" />
+    <option name="y" value="22" />
     <option name="width" value="1108" />
     <option name="height" value="860" />
   </component>
@@ -177,6 +286,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,45 +318,12 @@
               <item name="DSAJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSAJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xouan" type="462c0819:PsiDirectoryNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSAJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xouan" type="462c0819:PsiDirectoryNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSAJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xouan" type="462c0819:PsiDirectoryNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSAJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xouan" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSAJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +333,7 @@
     <property name="SearchEverywhereHistoryKey" value="Iterator&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/java/util/Iterator.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543747531794" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544001137793" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -282,7 +360,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortTest">
+  <component name="RunManager" selected="Application.BagTest">
+    <configuration name="BagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xouan.linear.bag.BagTest" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xouan.linear.bag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xouan.node.Node" />
       <module name="DSAJava" />
@@ -326,9 +417,11 @@
       <item itemvalue="Application.Node" />
       <item itemvalue="Application.NodeTest" />
       <item itemvalue="Application.SortTest" />
+      <item itemvalue="Application.BagTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BagTest" />
         <item itemvalue="Application.SortTest" />
         <item itemvalue="Application.NodeTest" />
         <item itemvalue="Application.Node" />
@@ -350,16 +443,58 @@
       <workItem from="1543466311400" duration="6165000" />
       <workItem from="1543718968953" duration="2062000" />
       <workItem from="1543721896130" duration="2762000" />
+      <workItem from="1543915752855" duration="535000" />
+      <workItem from="1543985363171" duration="10290000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1543915837078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543915837078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26960000" />
+    <option name="totallyTimeSpent" value="37785000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15295629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15681234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27762803" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15681234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,12 +508,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Problems" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,7 +523,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -396,19 +531,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/xouan/sort/SortTest.java</url>
-          <line>3</line>
-          <properties class="com.xouan.sort.SortTest" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/queue/MyQueue.java">
@@ -480,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xouan/sort/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/xouan/sort/ShellSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
@@ -522,24 +640,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/sort/BaseSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="88">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/sort/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyLinkedBag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        <state relative-caret-position="154">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xouan/sort/BaseSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/OnlineShopperBagTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="132">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/BagTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyArrayBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/linear/bag/MyBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xouan/MySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
