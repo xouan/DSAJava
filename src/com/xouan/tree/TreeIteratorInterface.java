@@ -2,7 +2,7 @@ package com.xouan.tree;
 
 import java.util.Iterator;
 
-public interface TreeIterator<T> {
+public interface TreeIteratorInterface<T> {
     Iterator<T> getPreorderIterator();
     Iterator<T> getpostorderIterator();
     Iterator<T> getInorderIterator();

@@ -1,9 +1,9 @@
 package com.xouan.tree;
 
-public interface Tree<T> {
+public interface TreeInterface<T> {
     int size();
     boolean isEmpty();
-    T getRoot();
+    T getRootData();
     int getHight();
     void clear();
 }
